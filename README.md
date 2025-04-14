@@ -65,11 +65,7 @@
 
 ### 🔥 Contribution Streak
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=richardsmnjtk" alt="GitHub Streak" />
-  </a>
-</p>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=richardsmnjtk" alt="GitHub Streak" /></a>
 ---
 
 ### 🧪 Current Experiments (Projects)
