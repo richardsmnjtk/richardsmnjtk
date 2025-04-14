@@ -17,11 +17,12 @@
 
 ---
 - 💬 I can talk for hours about:
-  - 🧠 AI for Infrastructure Automation
-  - ☸️ Kubernetes, Ceph, and Cloud-native tech
-  - 🔐 Secure provisioning strategies without firewalls (SSH-focused)
-- 🧘‍♂️ Fun fact: I love the ocean 🌊, and I believe tech—like the sea—should flow smoothly.
-
+  - 🧠 **AI in Infrastructure Automation**: Leveraging artificial intelligence to streamline and optimize infrastructure management.
+  - ☸️ **Cloud-native Technologies**: In-depth knowledge of Kubernetes, Ceph, and other modern cloud platforms for scalable and resilient systems.
+  - 🔐 **Secure Provisioning Strategies**: Focusing on SSH-based solutions for secure and efficient provisioning without traditional firewalls.
+  
+- 🧘‍♂️ **Fun Fact**:  
+  I have a strong affinity for the ocean 🌊, and I believe, much like the sea, technology should flow seamlessly and adapt to the environment around it.
 ---
 
 ### 🌐 Let's Connect
