@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm .-. .. -.-. .... .- .-. -..</h1>
 <h3 align="center">☁️ Cloud Consultant | 🤖 AI-Powered Infra Engineer | 🔧 OpenStack & DevOps Enthusiast</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamkahar196" alt="shubhamkahar196" /></a> </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=richardsmnjtk&label=Profile%20views&color=0e75b6&style=flat" alt="richardsmnjtk" />
 </p>
