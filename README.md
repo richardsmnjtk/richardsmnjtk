@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently developing an **AI-powered assistant** to automate virtual machine provisioning and infrastructure tasks.
+- 🔭 Currently developing an **AI-powered assistant** to automate infrastructure tasks.
 - 🧪 Passionate about combining **artificial intelligence, automation**, and **cloud technologies** to create scalable, intelligent systems.
 - 🌱 Continuously exploring the intersection of **DevOps, infrastructure-as-code**, and **intelligent cloud platforms** to enhance operational efficiency.
 
@@ -65,7 +65,7 @@
 
 ### 🔥 Contribution Streak
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=richardsmnjtk" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
 ---
 
 ### 🧪 Current Experiments (Projects)
