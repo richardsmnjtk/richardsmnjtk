@@ -58,8 +58,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richardsmnjtk" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardsmnjtk" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=richardsmnjtk&show_icons=true&locale=en&layout=compactt" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardsmnjtk6&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 ---
