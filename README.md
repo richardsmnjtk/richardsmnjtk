@@ -59,7 +59,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=richardsmnjtk" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardsmnjtk&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardsmnjtk" alt="Top Languages" />
 </p>
 
 ---
