@@ -22,8 +22,8 @@
 
 ### 🧪 Current Experiments (Projects)
 
-![687474703a2f2f7777332e73696e61696d672e636e2f736d616c6c2f61363935616364656777316633646579746236343867323034733034787771652e676966](https://github.com/user-attachments/assets/711a4696-1f5f-4a04-9345-68a9006b8d70)
-![Cat Loader](https://github.com/user-attachments/assets/711a4696-1f5f-4a04-9345-68a9006b8d70)
+|![687474703a2f2f7777332e73696e61696d672e636e2f736d616c6c2f61363935616364656777316633646579746236343867323034733034787771652e676966](https://github.com/user-attachments/assets/711a4696-1f5f-4a04-9345-68a9006b8d70)| ![Cat Loader](https://github.com/user-attachments/assets/711a4696-1f5f-4a04-9345-68a9006b8d70) |
+| ------------- | ------------- |
 ---
 
 > 🧘‍♂️ _"In code and in chaos, I find clarity."_  
