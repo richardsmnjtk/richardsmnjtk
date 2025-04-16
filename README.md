@@ -36,22 +36,6 @@
   </a>
 </p>
 
----
-
-### 🚀 My Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenStack-E02031?style=for-the-badge&logo=openstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/MAAS-000000?style=for-the-badge&logo=canonical&logoColor=white" />
-  <img src="https://img.shields.io/badge/Juju-ff6c00?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/MicroK8s-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ceph-EF2D5E?style=for-the-badge&logo=ceph&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
 
 ---
 
