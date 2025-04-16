@@ -11,11 +11,8 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richardsmnjtk&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardsmnjtk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=richardsmnjtk&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Richard github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardsmnjtk&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 ---
 
 ### 🔥 Contribution Streak
