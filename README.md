@@ -9,36 +9,6 @@
 
 ---
 
-### 🧠 About Me
-
-- 🔭 Currently developing an **AI-powered assistant** to automate infrastructure tasks.
-- 🧪 Passionate about combining **artificial intelligence, automation**, and **cloud technologies** to create scalable, intelligent systems.
-- 🌱 Continuously exploring the intersection of **DevOps, infrastructure-as-code**, and **intelligent cloud platforms** to enhance operational efficiency.
-
----
-- 💬 I can talk for hours about:
-  - 🧠 **AI in Infrastructure Automation**: Leveraging artificial intelligence to streamline and optimize infrastructure management.
-  - ☸️ **Cloud-native Technologies**: In-depth knowledge of Kubernetes, Ceph, and other modern cloud platforms for scalable and resilient systems.
-  - 🔐 **Secure Provisioning Strategies**: Focusing on SSH-based solutions for secure and efficient provisioning without traditional firewalls.
-  
-- 🧘‍♂️ **Fun Fact**:  
-  I have a strong affinity for the ocean 🌊, and I believe, much like the sea, technology should flow seamlessly and adapt to the environment around it.
----
-
-### 🌐 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -55,6 +25,7 @@
 
 ### 🧪 Current Experiments (Projects)
 
+![687474703a2f2f7777332e73696e61696d672e636e2f736d616c6c2f61363935616364656777316633646579746236343867323034733034787771652e676966](https://github.com/user-attachments/assets/711a4696-1f5f-4a04-9345-68a9006b8d70)
 
 ---
 
